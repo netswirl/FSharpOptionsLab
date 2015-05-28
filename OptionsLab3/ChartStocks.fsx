@@ -1,4 +1,11 @@
-﻿#light
+﻿// Author: Conrad D'Cruz
+// Email: netswirl@gmail.com
+// Twitter: @netswirl
+// Url: http://www.netswirl.com
+// Date: 05/26/2015
+
+
+#light
 #load @"C:\Users\netswirl\Documents\Visual Studio 2013\Projects\OptionsLab2\packages\FSharp.Charting.0.90.10\FSharp.Charting.fsx"
 
 open FSharp.Charting

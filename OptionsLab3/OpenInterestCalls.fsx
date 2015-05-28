@@ -1,4 +1,9 @@
-﻿
+﻿// Author: Conrad D'Cruz
+// Email: netswirl@gmail.com
+// Twitter: @netswirl
+// Url: http://www.netswirl.com
+// Date: 05/26/2015
+
 
 #r "../packages/Deedle.1.0.7/lib/net40/Deedle.dll"
 #r "../packages/FSharp.Charting.0.90.10/lib/net40/FSharp.Charting.dll"

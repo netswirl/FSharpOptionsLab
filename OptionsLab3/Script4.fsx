@@ -1,4 +1,9 @@
-﻿
+﻿// Author: Conrad D'Cruz
+// Email: netswirl@gmail.com
+// Twitter: @netswirl
+// Url: http://www.netswirl.com
+// Date: 05/26/2015
+
 open System.IO
 open System.Drawing
 open System.Windows.Forms

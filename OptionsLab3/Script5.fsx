@@ -1,4 +1,11 @@
-﻿#r @"C:\Users\netswirl\documents\visual studio 2013\Projects\OptionsLab3\packages\Deedle.1.0.7\lib\net40\Deedle.dll"
+﻿// Author: Conrad D'Cruz
+// Email: netswirl@gmail.com
+// Twitter: @netswirl
+// Url: http://www.netswirl.com
+// Date: 05/26/2015
+
+
+#r @"C:\Users\netswirl\documents\visual studio 2013\Projects\OptionsLab3\packages\Deedle.1.0.7\lib\net40\Deedle.dll"
 #r @"C:\Users\netswirl\documents\visual studio 2013\Projects\OptionsLab3\packages\FSharp.Charting.0.90.10\lib\net40\FSharp.Charting.dll"
 #r @"C:\Users\netswirl\Documents\Visual Studio 2013\Projects\OptionsLab3\packages\FSharp.Data.2.2.1\lib\net40\FSharp.Data.dll"
 
