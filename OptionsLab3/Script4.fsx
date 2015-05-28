@@ -3,6 +3,7 @@
 // Twitter: @netswirl
 // Url: http://www.netswirl.com
 // Date: 05/26/2015
+//Note: This file is under development and will be renamed when completed
 
 open System.IO
 open System.Drawing

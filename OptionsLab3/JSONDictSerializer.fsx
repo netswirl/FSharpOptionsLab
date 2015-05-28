@@ -4,6 +4,10 @@
 // Url: http://www.netswirl.com
 // Date: 05/26/2015
 
+// Filename: JSONDictSerializer.fsx: 
+// Description: JSONDictSerializer.fsx - Trying out the JavaScriptSerializer that downloads JSON. Download options data from Google. JSON is malformed since the dictionary keys do not have double quotes but this serializer appears to solve that problem.
+
+
 #r @"C:\Users\netswirl\Documents\Visual Studio 2013\Projects\OptionsLab3\packages\FSharp.Data.2.2.1\lib\net40\FSharp.Data.dll"
 
 open System

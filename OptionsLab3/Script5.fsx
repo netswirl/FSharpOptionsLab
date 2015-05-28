@@ -3,6 +3,7 @@
 // Twitter: @netswirl
 // Url: http://www.netswirl.com
 // Date: 05/26/2015
+//Note: This file is under development and will be renamed when completed
 
 
 #r @"C:\Users\netswirl\documents\visual studio 2013\Projects\OptionsLab3\packages\Deedle.1.0.7\lib\net40\Deedle.dll"

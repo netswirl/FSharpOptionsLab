@@ -4,6 +4,8 @@
 // Url: http://www.netswirl.com
 // Date: 05/26/2015
 
+// Filename: ChartStocks.fsx 
+// Description: Get stock data from yahoo and get the data ready for chart drawing. Code samples for several different charting styles are available in this file. 
 
 #light
 #load @"C:\Users\netswirl\Documents\Visual Studio 2013\Projects\OptionsLab2\packages\FSharp.Charting.0.90.10\FSharp.Charting.fsx"

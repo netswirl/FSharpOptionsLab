@@ -4,6 +4,10 @@
 // Url: http://www.netswirl.com
 // Date: 05/26/2015
 
+// Filename: OpenInterestPuts.fsx 
+// Description: Run the code against c:\data\puts.csv (sample options data for MSFT)
+// Note: puts.csv file is available in the repository. Place anyplace convenient in your filesystem
+// and update the line in the code below to point to the new location. Recommended location is c:\data
 
 #r "../packages/Deedle.1.0.7/lib/net40/Deedle.dll"
 #r "../packages/FSharp.Charting.0.90.10/lib/net40/FSharp.Charting.dll"
